@@ -1,3 +1,5 @@
+![Sankey Diagram](visualization.png)
+
 # The Rise of Highly-Processed Foods: Mapping Food Processing Scores to Price
 
 This project visualizes how grocery stores distribute food items according to processing level and price range. By analyzing grocery store data, we uncover how highly processed foods dominate shelves, especially in the lower price brackets.
